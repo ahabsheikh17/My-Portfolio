@@ -118,12 +118,6 @@ html {
   scroll-behavior: smooth;
 }
 
-/* .insta > img{
-    height: 10px;
-    width: 10px;
-    display: flex;
-    justify-content: flex-start;
-} */
 .contact {
   height: 700px;
   background-color: rgb(0, 0, 50);
@@ -132,6 +126,6 @@ html {
 }
 .contact > h1 {
     size: 400px;
-    
+
 
 }
